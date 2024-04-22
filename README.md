@@ -24,7 +24,8 @@ This Tester checks:
 
 ▪️ Your program does not terminate unexpectedly.
 
-<img width="327" alt="Screen Shot 2024-04-22 at 8 06 37 PM" src="https://github.com/gemartin99/So_long-Tester/assets/66915274/c424ac0b-aa20-4fa0-8a3f-da9c280902c3">
+<img width="439" alt="Screen Shot 2024-04-22 at 8 15 37 PM" src="https://github.com/gemartin99/So_long-Tester/assets/66915274/c74e7052-2369-4b47-a5d9-006d57a3a82f">
+
 
 # 💡 How to use
 
