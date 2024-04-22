@@ -24,6 +24,8 @@ This Tester checks:
 
 ▪️ Your program does not terminate unexpectedly.
 
+<img width="327" alt="Screen Shot 2024-04-22 at 8 06 37 PM" src="https://github.com/gemartin99/So_long-Tester/assets/66915274/c424ac0b-aa20-4fa0-8a3f-da9c280902c3">
+
 # 💡 How to use
 
 You should clone this repository with the following command:
