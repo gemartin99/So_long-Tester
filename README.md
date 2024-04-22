@@ -35,7 +35,7 @@ git clone git@github.com:gemartin99/So_long-Tester.git
 Now we must copy all the content of the repository that we have just cloned and paste it in our folder where the so_long program is located. We will make use of the following command:
 
 ```SH
-cp -r Tester_so_long.sh maps_err maps_valid /path/so_long
+cp -r Tester_so_long.sh maps_err maps_valid /path/to/so_long
 ```
 
 Once we have copied everything to the correct path we only have to execute the script with the following command.
@@ -43,3 +43,20 @@ Once we have copied everything to the correct path we only have to execute the s
 ```SH
 bash Tester_so_long.sh
 ```
+
+# Maybe it would interest you!
+
+### - To check my progression in 42 common core ↙️
+
+[HERE](https://github.com/gemartin99/42cursus)
+
+### - My 42 intra profile ↙️
+[HERE](https://profile.intra.42.fr/users/gemartin)
+
+# Contact 📥
+
+### Contact with me if you fine some errors! That will help future students! 😁
+
+◦ Email: gemartin@student.42barcelona.com
+
+◦ Linkedin: https://www.linkedin.com/in/gemartin99/
